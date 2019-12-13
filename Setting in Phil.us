@@ -1,0 +1,110 @@
+Phil.us
+------------------------------------------------------------------------
+salesforce:
+puran@phil.us / dvyoti96
+peter-7byr@force.com / Front2o!9
+
+
+Wifi: Front2o!9 for Rex-6
+Office Alarm Code of Puran Team : 2891
+    First Come: 2891 + 1
+    Last Leave: 2891 + away
+
+My EMail address:  peter@usephil.com
+EMail setting verify code (8 digits): 21420277, 62403046
+
+Add Slack: Asana, PhilEngineering
+
+Postgres: 
+    phil_export_dev 
+    MAPh1lC@lv1n51
+    Host: phil-mode-db.c2fyor8uhccl.us-east-1.rds.amazonaws.com
+
+    local: peterliao / cpeter0
+
+MongoDB:
+	phil-db-dev
+	zDS75uNBbqius24R
+
+OPS Dash : https://ops.dev.phil.us/
+MD Dash : https://md.dev.phil.us/
+	puran+admin@usephil.com
+	Puran2020 
+
+GoLang學習：
+------------------------------------------------------------------------
+https://tour.golang.org/welcome/1
+https://blog.golang.org/
+https://gobyexample.com/
+https://golang.org/doc/effective_go.html
+https://golang.org/doc/install
+https://golang.org/doc/code.html#Workspaces
+
+Phil Developer Guide
+------------------------------------------------------------------------
+https://phildotus.atlassian.net/wiki/spaces/PE/pages/412876801/New+Developer+Guide
+https://docs.google.com/presentation/d/1l8G7QomzRZXIe75hLONZK-4k1a
+
+Sample Format - logger.ErrorPrintf("[user_event_handler][updateCarrier] error updating notification preferences of user %s. Error: %s", usr.StringID(), err) 
+
+第一天工作：
+------------------------------------------------------------------------
+read docs
+    Phil Database Schema
+    glide.sh 
+
+set up
+    mongoDB
+    glide.sh
+    copi
+    golang
+
+learn Go
+
+download mongoDB in local
+    clone data in my mac
+
+
+go run main.go -profile=local -path=config;
+
+http://localhost:8585/v1/trigger-job?jn=Reporting-ExportTable-account&key=9e5903c77e31490caf2160872b7dcfdb
+db.reportdb.url=postgres://phil_export_dev:MAPh1lC@lv1n51@phil-mode-db.c2fyor8uhccl.us-east-1.rds.amazonaws.com
+
+no enable API feature ---> return code: 403
+    https://developer.salesforce.com/docs/atlas.en-us.api.meta/api/sforce_api_quickstart_intro.htm
+    https://help.salesforce.com/articleView?id=admin_userperms.htm
+    https://success.salesforce.com/answers?id=9063A000000lSjkQAE
+
+
+SalesForce:
+Essentials Version ---> no enable API
+Professional Version ---> does
+developer Version ---> Yes, but https://developer.salesforce.com/signup
+salesforce token: 8llo6gJfaqHC7Sigrwg33BTFQ
+
+git
+--------------------------------------------------
+git (也是要先add --> commit --> push)
+git checkout -b <BRANCH_NAME>
+git checkout  -b
+    = git branch xxx    （開一個分支）
+      git checkout xxx      （切換狀態到xxx分支上）
+git status （檢查目前狀態在哪一個分支上）
+
+git add 加一個新檔案到git中
+git reset (取消 add )
+
+
+
+
+
+git push origin <BRANCH_NAME>
+
+
+
+Account, Contact, Task, and Lead data
+
+
+
+
+    
